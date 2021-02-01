@@ -10,7 +10,6 @@ pip3 install requirements.txt
 ## Instalasi
 ```bash
 git clone https://github.com/iwanmartinsetiawan/bmkg_xml_json.git
-pip3 install requirements.txt
 ```
 
 ## Penggunaan
